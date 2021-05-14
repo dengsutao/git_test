@@ -1,2 +1,6 @@
 this is the first line
+<<<<<<< HEAD
 this is the second_new line
+=======
+this is the sescond line
+>>>>>>> 855f63a960d97f642eef935bad3e252ba2ba2ff0
